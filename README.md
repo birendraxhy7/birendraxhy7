@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Birendra Chaudhary</h1>
-<h3 align="center">A passionate Fullstack developer from Nepal</h3>
-
+<h4 align="center">A passionate Fullstack developer from Nepal</h4>
+<h4 align="center"> I am a 4th year Student of Bachelor of Computer Engineering. </h4>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aadb1266-f81a-4555-bb9a-9ecc98a5f784" />
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/birendra-chaudhary-5a49a8332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/birendra-chaudhary-5a49a8332" height="30" width="40" /></a>
 <a href="https://fb.com/birendrachy.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="birendrachy.07" height="30" width="40" /></a>
 <a href="https://instagram.com/birendrachy_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birendrachy_7" height="30" width="40" /></a>
