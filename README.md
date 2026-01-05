@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Birendra Chaudhary</h1>
 <h3 align="center">A passionate Fullstack developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birendraxhy7&label=Profile%20views&color=0e75b6&style=flat" alt="birendraxhy7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birendraxhy7" alt="birendraxhy7" /></a> </p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aadb1266-f81a-4555-bb9a-9ecc98a5f784" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
