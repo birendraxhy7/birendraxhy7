@@ -1,16 +1,35 @@
-## Hi there 👋
+Saboo24/README.md
 
-<!--
-**birendraxhy7/birendraxhy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 “Crafting logic and elegance in every line of code.”
+
+
+📬 Connect with Me
+    
+
+ 
+
+🧠 Skills
+
+
+⚙️ Tools
+
+
+📊 GitHub Statistics
+
+
+
+
+
+
+🧩 Most Used Languages
+
+
+🏆 Top Contributed Repo
+
+
+✍️ Random Dev Quote
+
+
